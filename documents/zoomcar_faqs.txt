@@ -1,0 +1,59 @@
+Q: Do I have to return the car to the same location where I picked it up?
+A: For all the bookings, return the Zoomcar Car to its pick-up location. If you leave Zoomcar Car away from your Pick-up location, you will be charged up to INR 10,000 in wrong location drop penalties + Car recovery expenses incurred by Zoomcar until the vehicle is returned to the correct location. Late fees will also be charged at the effective hourly booking rate.
+
+Q: Can I book for any period of time?
+A: You can book cars by the hour, day, week, or month. You can book them 60 days in advance. The minimum reservation period for regular bookings is 8 hours.
+
+Q: What happens if I return the car late?
+A: A high penalty will be applicable for the amount of time you are late. In order to avoid paying this penalty, you can extend the booking from the app, well in advance.
+
+Q: How am I reimbursed if I pump my own fuel?
+A: Zoomcar is providing UNLIMITED KILOMETERS with NO FUEL Bookings, but the Guests are expected to drop the car at an equal or higher fuel level than the Booking Start time. Reimbursement for any excess fuel will be processed to the Guests. Refuelling Charges will be levied if the vehicle is dropped at a lower fuel level than the Booking Start time. If the booking type is With-fuel, Zoomcar pays for the fuel, regardless of whether the vehicle is a diesel or petrol variant. Zoomcar refuels the vehicles regularly. If you are driving a long distance and you need to refuel the vehicle, keep the original fuel receipt and submit it after your reservation and Zoomcar will happily reimburse you the amount based on estimation. We do not reimburse fuel refund on No fuel bookings, Please refuel the vehicles as per your need. While ending the trip vehicle fuel % should be as same as the start fuel % to avoid unnecessary charges. Start & End Checklist is mandatory.
+
+Q: Who pays for fuel?
+A: Zoomcar is providing UNLIMITED KILOMETERS with NO FUEL Bookings, but the Guests are expected to drop the car at an equal or higher fuel level than the Booking Start time. Reimbursement for any excess fuel will be processed to the Guests. Refueling Charges will be levied if the vehicle is dropped at a lower fuel level than the Booking Start time. If the booking type is With-fuel, Zoomcar pays for the fuel, regardless of whether the vehicle is a diesel or petrol variant. Zoomcar refuels the vehicles regularly. If you are driving a long distance and you need to refuel the vehicle, keep the original fuel receipt and submit it after your reservation and Zoomcar will happily reimburse you the amount based on estimation. We do not reimburse fuel refund on No fuel bookings, Please refuel the vehicles as per your need. While ending the trip vehicle fuel % should be as same as the start fuel % to avoid unnecessary charges. Start & End Checklist is mandatory.
+
+Q: Is there a km limit to how much I can drive?
+A: With Zoomcar Bookings, you are getting truly UNLIMITED KILOMETERS irrespective of the booking duration. No additional charges will be applicable for the driven KMs.
+
+Q: Why do I have to pay a deposit?
+A: Zoomcar doesn't take any deposits for serving a Booking. Based on additional usage customers will be charged at the time of Booking End.
+
+Q: How do I unlock my car?
+A: "Location without fleet (KLE booking): Filling checklists is easy! Now you can fill your pick up checklist via the Zoomcar App. Just login to the App, select your live booking from the My bookings page and start. 1. Fill Exterior cleanliness and damage reporting with images. 2. Unlock the vehicle 3. Interior cleanliness, documents check and vehicle KM/Fuel readings with images. 4. Pick up the car keys from the dashboard. 5. Start your trip. It is advised to keep the images for your future reference and do ensure proper network coverage filling the checklist." Location with Fleet assistance: Collect the keys from the location executive.
+
+Q: Where can I find the Car Keys?
+A: "After you unlock the car using KLE, you can find the car keys in the dashboard." At times previous customers would have kept the car keys on the seat, On the sun visor, dropped below the seats.
+
+Q: What are the fines that Zoomcar levies on the Customer?
+A: For the safety of our cars, and for a great Zoom experience we have some fines.For more information on fines visit the Fee policy page https://www.zoomcar.com/policy#feePolicy
+
+Q: Can someone else drive Zoomcar during my reservation? What is the process to add co-driver?
+A: We understand that driving can get tiring on a long drive and you want to share driving responsibilities with a friend. Simply add co-drivers through the Co-Drivers page in your account. This will ensure that in case of any damage while your friend is driving, liability is limited to the security deposit (under our usual conditions). If your friend is not a Zoomcar user already, we will ask them to upload their DL and then review it. If your friend is already a Zoomcar user then their DL has most likely already been approved. Please do remember, you are still responsible for the vehicle during your reservation. Additionally if a non-Zoomcar verified person drives the vehicle, Zoomcar's insurance coverage would be invalidated and you will face unlimited liability.
+
+Q: How do I end my reservation?
+A: "Location without fleet (KLE booking): Filling checklists is easy! Now you can fill your End checklist via the Zoomcar app. Just log in to the App, select your live booking from the My bookings page and start. 1. Keep the keys inside the dashboard. 2. Edit your checklist details if there are any changes with Images. 3. Lock the vehicle. 4. End of your trip by uploading 4 side images of the vehicle. It is advised to keep the images for your future reference and need proper network coverage filling the checklist." Please collect all your belonging before locking the vehicle.
+
+Q: What if my Driving License is in not yet Approved/ Review in progress state?
+A: If you have successfully completed the DL upload process, be rest assured that your driving license will be approved before your booking start time. You can check the status of your Driving license over your App. If our team is unable to approve your Driving license, they will notify you of the supporting documents required to approve your driving license. Please upload those documents and our team will verify the uploaded documents to approve your driving license. Kindly wait till your Driving license is reviewed by our team.
+
+Q: What would be the fuel level in the vehicle which gets allotted to me? What if the fuel level is low?
+A: Fuel levels in few vehicles may be as low as 5-10%. Post completing the pick-up checklist procedure. Please do check the fuel percentage in the vehicle and refuel the vehicle if the current fuel level is not enough for your trip. Please refuel the vehicle as per your trip requirement.
+
+Q: What if I see there are exterior damages on the vehicle?
+A: We try to inspect all our vehicle's condition periodically however if you notice any damage on the vehicle, Please do call out the same in the start checklist and also do capture the images for future reference.
+
+Q: What is traffic violation fee?
+A: Please ensure you drive safely without breaking any traffic rules. In case of an uncertain event of a traffic violation, Please clear the penalty through the Govt portal to avoid un-necessary charges against your booking and inconvenience to other customers.
+
+Q: Will I be charged for the cancellation of the booking?
+A: a) A charge of 50% of the booking amount is applicable if canceled before 6 hours of the booking start time. b) No cancellation is allowed after 6 hours of booking start time as there is no refund. c) In case of Multiple cancellations or if any fraudulent activities are noticed then Zoomcar has the right to charge a cancellation fee even in before 24 hour period e) Please note that the cancellation policy is subject to change at the discretion of the Zoomcar team based on the specific requirements of each city.
+
+Q: What is Driver Score?
+A: Driver Score is a rating mechanism that reflects your driving behaviour for the trip. User's aggregate score is an average of the individual trips' driver score
+
+Q: What would I get for having a better Driver Score?
+A: In terms of rewards, fully redeemable Z points will be added to your Zoomcar Account if you have a score of more than 65. Better driving would also reduce the fuel cost.
+
+Q: Can I get a car for any use-case?
+A: Below are the use-cases for which the cars be alloted: - Transportation for Doctors/Nurses/Paramedics - Authorized personnel designated by the government - Medical Emergencies - Grocery or Pharmacy Visits - Visiting bank (For Bangalore only) - Shifting house (For Bangalore only)
